@@ -14,7 +14,7 @@ And then boot up the development server:
 
 ## Help!
 
-If you find a bug or have questions about the repo, I'd prefer if you create an issue in this repository. However, I can't get to every request. If I'm being unresponsive, you can also try me [on Twitter](https://twitter.com/seancdavis29).
+If you find a bug or have questions about the repo, I'd prefer if you [create an issue in this repository](https://github.com/seancdavis/middleman-static-api/issues/new). However, I can't get to every request. If I'm being unresponsive, you can also try me [on Twitter](https://twitter.com/seancdavis29).
 
 ## License
 
